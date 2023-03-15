@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.contactCon {
+  max-width: 80vw;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.contactImg {
+  height: 40vh;
+}
+.contactH {
+  font-size: 7vh;
+  color: #6d396b;
+}
